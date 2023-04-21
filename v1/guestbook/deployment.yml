@@ -28,7 +28,7 @@ spec:
           name: http
         resources:
           limits:
-            cpu: 5m
+            cpu: 2m
           requests:
-            cpu: 2m  
+            cpu: 1m  
   replicas: 1
